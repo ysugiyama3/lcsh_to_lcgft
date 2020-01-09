@@ -9,6 +9,7 @@ Python 3 script to replace certain LCSHs used as genre/form headings with LCGFT 
 
 # Background
 At our library, appx. 4,460 LCSHs are used as genre/form headings in our records, of which 496 LCSHs can be replaced with their LCGFT equivalents. For example,
+
 | LCSH                                      | LCGFT                                    | LCGFT URI                                             |
 |------------------------------------------ | ---------------------------------------- | ----------------------------------------------------- |
 | Dissertations, Academic.                  | Academic theses                          | http://id.loc.gov/authorities/genreForms/gf2014026039 |
