@@ -22,8 +22,8 @@ At our library, appx. 4,460 LCSHs are used as genre/form headings in our records
 | Administrative regulations.               | Administrative regulations               | http://id.loc.gov/authorities/genreForms/gf2011026030 |
 | Aerial views.                             | Aerial views                             | http://id.loc.gov/authorities/genreForms/gf2011026033 |
 
-Now that LCGFT is our primary thesaurus for genre/form headings, using this script, we update a 655 field like this.
-from:  655  \0 $a Dissertations, Academic.
-to:    655  \7 $a Academic theses. $2 lcgft $0 http://id.loc.gov/authorities/genreForms/gf2014026039
+Now that LCGFT is our primary thesaurus for genre/form headings, using this script, we update a 655 field like this.  
+from:  655  \0 $a Dissertations, Academic.  
+to:    655  \7 $a Academic theses. $2 lcgft $0 http://id.loc.gov/authorities/genreForms/gf2014026039  
 
 Note: If the LCSH doesn't have LCGFT equivalent, we leave it as is.
